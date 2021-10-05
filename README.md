@@ -8,5 +8,7 @@ Ladder Lads is the adventure of two idiots who have no idea how to use a ladder,
 Controls:
 
 Right/Left Arrows: Rotate clockwise/counter-clockwise
+
 Z: Extends/contracts the ladder
+
 X: Toggles the primary lad
