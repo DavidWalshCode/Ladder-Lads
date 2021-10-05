@@ -5,6 +5,7 @@ Created by Alasdair Allen & David Walsh
 
 Ladder Lads is the adventure of two idiots who have no idea how to use a ladder, rescuing a cat from a tree
 
+
 Controls:
 
 Right/Left Arrows: Rotate clockwise/counter-clockwise
