@@ -1,7 +1,7 @@
 # Ladder-Lads
 Game made in PICO-8 for the GMTK Game Jam 2021
 
-Created by Alasdair Allen & David Walsh
+Created by David Walsh & Alasdair Allen 
 
 Ladder Lads is the adventure of two idiots who have no idea how to use a ladder, rescuing a cat from a tree
 
