@@ -9,5 +9,5 @@ Left/Right Arrows: Rotate clockwise/counter-clockwise
 Z: Extends/contracts the ladder  
 X: Toggles the primary lad
 
-HOW TO DOWNLOAD AND PLAY:  
-Download both lads.html and lads.js in the same folder, run lads.html in your browser
+HOW TO DOWNLOAD AND RUN:  
+Download both lads.html and lads.js in the same folder, right click lads.html and open with your browser
