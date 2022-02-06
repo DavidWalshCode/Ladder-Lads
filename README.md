@@ -3,7 +3,9 @@ Game made in PICO-8 for the 48 Hour GMTK Game Jam 2021
 Theme: Joined Together  
 Created by David Walsh & Alasdair Allen
 
-Ladder Lads is the adventure of two idiots who have no idea how to use a ladder, rescuing a cat from a tree
+Ladder Lads is the adventure of two idiots who have no idea how to use a ladder, rescuing a cat from a tree  
+
+awj.itch.io/ladder-lads
 
 CONTROLS:  
 Left/Right Arrows: Rotate clockwise/anticlockwise  
