@@ -9,8 +9,8 @@ Ladder Lads is movement based puzzle game about two idiots who have no idea how 
 
 The lads rotate 90° around each other and can extend and contract the ladder   
 
-icth.io page: awj.itch.io/ladder-lads
-Game Jam Submission: itch.io/jam/gmtk-2021/rate/1087130
+- Game Jam Submission: itch.io/jam/gmtk-2021/rate/1087130  
+- itch.io page: awj.itch.io/ladder-lads
 
 CONTROLS:  
 Left/Right Arrows: Rotate clockwise/anticlockwise  
