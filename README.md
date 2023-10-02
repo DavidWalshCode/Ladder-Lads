@@ -22,3 +22,6 @@ Download both lads.html and lads.js in the same folder, right click lads.html an
 
 LINK TO ITCH.IO:
 https://awj.itch.io/ladder-lads
+
+GMTK SUBMISSION:
+https://itch.io/jam/gmtk-2021/rate/1087130
