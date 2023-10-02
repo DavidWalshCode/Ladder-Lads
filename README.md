@@ -25,3 +25,5 @@ https://awj.itch.io/ladder-lads
 
 GMTK SUBMISSION:
 https://itch.io/jam/gmtk-2021/rate/1087130
+
+Ranked #359 out of 5681 entries
