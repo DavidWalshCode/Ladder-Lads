@@ -19,3 +19,6 @@ X: Toggles the primary lad
 
 HOW TO DOWNLOAD AND RUN:  
 Download both lads.html and lads.js in the same folder, right click lads.html and open with your browser
+
+LINK TO ITCH.IO:
+https://awj.itch.io/ladder-lads
