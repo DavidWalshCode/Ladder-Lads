@@ -5,9 +5,9 @@ Game made in PICO-8 for the 48 Hour GMTK Game Jam 2021
 
 Created by David Walsh & Alasdair Allen
 
-Ladder Lads is movement based puzzle game about two idiots who have no idea how to use a ladder, rescuing a cat from a tree   
+Ladder Lads is movement based puzzle game about two idiots who have no idea how to use a ladder, rescuing a cat from a tree.
 
-The lads rotate 90° around each other and can extend and contract the ladder   
+The lads rotate 90° around each other and can extend and contract the ladder.
 
 **CONTROLS:** 
 
