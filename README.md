@@ -10,9 +10,10 @@ Ladder Lads is movement based puzzle game about two idiots who have no idea how 
 The lads rotate 90° around each other and can extend and contract the ladder   
 
 **CONTROLS:** 
-Left/Right Arrows: Rotate clockwise/anticlockwise  
-Z: Extends/contracts the ladder  
-X: Toggles the primary lad
+
+    - Left/Right Arrows: Rotate clockwise/anticlockwise
+    - Z: Extends/contracts the ladder
+    - X: Toggles the primary lad
 
 **HOW TO DOWNLOAD AND RUN:**  
 Download both lads.html and lads.js in the same folder, right click lads.html and open with your browser
